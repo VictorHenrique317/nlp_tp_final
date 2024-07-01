@@ -1,0 +1,6 @@
+![Alt text](screenshots/main_page-0001.jpg)
+![Alt text](screenshots/main_page-0002.jpg)
+![Alt text](screenshots/main_page-0003.jpg)
+![Alt text](screenshots/main_page-0004.jpg)
+![Alt text](screenshots/main_page-0005.jpg)
+![Alt text](screenshots/main_page-0006.jpg)
